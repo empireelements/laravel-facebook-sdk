@@ -1,5 +1,5 @@
 {
-    "name": "Nsivanoly/laravel-facebook-sdk",
+    "name": "nsivanoly/laravel-facebook-sdk",
     "description": "Fully unit tested Facebook SDK v5 integration for Laravel 6.x",
     "keywords": ["facebook", "laravel", "lumen", "sdk", "facebook sdk v4", "facebook sdk v5"],
     "homepage": "https://github.com/nsivanoly/laravel-facebook-sdk",

@@ -1,7 +1,7 @@
-<?php namespace Scottybo\LaravelFacebookSdk\Test;
+<?php namespace Nsivanoly\LaravelFacebookSdk\Test;
 
 use Mockery as m;
-use Scottybo\LaravelFacebookSdk\LaravelFacebookSdk;
+use Nsivanoly\LaravelFacebookSdk\LaravelFacebookSdk;
 
 class LaravelFacebookSdkTest extends \PHPUnit\Framework\TestCase
 {

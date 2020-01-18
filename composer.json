@@ -37,9 +37,6 @@
             "Nsivanoly\\LaravelFacebookSdk\\Test\\": "tests"
         }
     },
-    "branch-alias": {
-        "dev-master": "4.x-dev"
-    },
     "extra": {
         "laravel": {
             "providers": [
